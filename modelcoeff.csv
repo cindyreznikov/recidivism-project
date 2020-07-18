@@ -1,47 +1,93 @@
 ,Model,Feature,Coeff
-0,LR,Main Supervising District_1JD,0.41688230031146156
-1,LR,Main Supervising District_2JD,0.46320908696675434
-2,LR,Main Supervising District_3JD,0.4370383335062178
-3,LR,Main Supervising District_4JD,0.598624989721433
-4,LR,Main Supervising District_5JD,0.5916375524156594
-5,LR,Main Supervising District_6JD,0.24746835542265222
-6,LR,Main Supervising District_7JD,0.17804623274083906
-7,LR,Main Supervising District_8JD,0.3293794360469668
-8,LR,Main Supervising District_ISC,-1.1600522123071266
-9,LR,Main Supervising District_Interstate Compact,-1.5441457804900156
-10,LR,Main Supervising District_NSD,-0.5698414501034742
-11,LR,Age At Release_25-34,0.32655375516109
-12,LR,Age At Release_35-44,0.13029381707620183
-13,LR,Age At Release_45-54,-0.14171418228117122
-14,LR,Age At Release_55 and Older,-0.6028824807845492
-15,LR,Age At Release_Under 25,0.38603087744132664
-16,LR,Sex_Female,-0.17513423875505632
-17,LR,Sex_Male,0.27341602536756937
-18,LR,Offense Classification_A Felony,-0.2976213910276142
-19,LR,Offense Classification_Aggravated Misdemeanor,0.21256010690128754
-20,LR,Offense Classification_B Felony,-0.18681884993173445
-21,LR,Offense Classification_C Felony,-0.07092725719849748
-22,LR,Offense Classification_D Felony,-0.18783172953415747
-23,LR,Offense Classification_Felony - Enhanced,0.0074448976132272335
-24,LR,Offense Classification_Felony - Enhancement to Original Penalty,0.012506678915168642
-25,LR,Offense Classification_Felony - Mandatory Minimum,0.14893832154026962
-26,LR,Offense Classification_Other Felony,0.5418512818360643
-27,LR,Offense Classification_Other Felony (Old Code),-0.1686079712319524
-28,LR,Offense Classification_Other Misdemeanor,-0.25720117347339894
-29,LR,Offense Classification_Serious Misdemeanor,0.38781644820931604
-30,LR,Offense Classification_Sexual Predator Community Supervision,-0.5150819820842305
-31,LR,Offense Classification_Simple Misdemeanor,-0.34499193396735883
-32,LR,Offense Classification_Special Sentence 2005,0.7062113976650187
-33,LR,Offense Type_Drug,-0.01216126002267726
-34,LR,Offense Type_Other,0.25281283763195267
-35,LR,Offense Type_Property,0.12717660524162924
-36,LR,Offense Type_Public Order,-0.07734202913358308
-37,LR,Offense Type_Violent,-0.3022393094859696
-38,LR,Race_American Indian or Alaska Native ,0.9146081076809628
-39,LR,Race_Asian or Pacific Islander ,-0.24648020525356706
-40,LR,Race_Black ,0.4695204964944217
-41,LR,Race_N/A ,-0.21338751071315798
-42,LR,Race_White ,0.46285887919259516
-43,LR,Ethnicity_,-0.06086850715704658
-44,LR,Ethnicity_ Hispanic,0.5068554814815702
-45,LR,Ethnicity_ Non-Hispanic,0.9411327930765795
+0,LR,Main Supervising District_1JD,0.41997517218891667
+1,LR,Main Supervising District_2JD,0.4660864082970592
+2,LR,Main Supervising District_3JD,0.44047982385053897
+3,LR,Main Supervising District_4JD,0.6021568145364421
+4,LR,Main Supervising District_5JD,0.5948878615512978
+5,LR,Main Supervising District_6JD,0.25079714292492794
+6,LR,Main Supervising District_7JD,0.1810835352478044
+7,LR,Main Supervising District_8JD,0.3326975475194432
+8,LR,Main Supervising District_ISC,-1.158875983942761
+9,LR,Main Supervising District_Interstate Compact,-1.5420376888444287
+10,LR,Main Supervising District_NSD,-0.566865749579222
+11,LR,Age At Release_25-34,0.330835830979599
+12,LR,Age At Release_35-44,0.1349075503024237
+13,LR,Age At Release_45-54,-0.13719118491726964
+14,LR,Age At Release_55 and Older,-0.5983597967573778
+15,LR,Age At Release_Under 25,0.3904264192297131
+16,LR,Sex_Female,-0.16402637597203373
+17,LR,Sex_Male,0.2846451948089806
+18,LR,Offense Classification_A Felony,-0.2974579337283011
+19,LR,Offense Classification_Aggravated Misdemeanor,0.2194176085391358
+20,LR,Offense Classification_B Felony,-0.17985027056028974
+21,LR,Offense Classification_C Felony,-0.06403151269927795
+22,LR,Offense Classification_D Felony,-0.18073085986766685
+23,LR,Offense Classification_Felony - Enhanced,0.011898726133575748
+24,LR,Offense Classification_Felony - Enhancement to Original Penalty,0.01987720337989471
+25,LR,Offense Classification_Felony - Mandatory Minimum,0.13923462043061519
+26,LR,Offense Classification_Other Felony,0.5397384249021082
+27,LR,Offense Classification_Other Felony (Old Code),-0.1660960469796078
+28,LR,Offense Classification_Other Misdemeanor,-0.25417953939787735
+29,LR,Offense Classification_Serious Misdemeanor,0.3917187534747686
+30,LR,Offense Classification_Sexual Predator Community Supervision,-0.5256056813288534
+31,LR,Offense Classification_Simple Misdemeanor,-0.34777584471602285
+32,LR,Offense Classification_Special Sentence 2005,0.714227236167935
+33,LR,Offense Type_Drug,-0.005419070893785997
+34,LR,Offense Type_Other,0.2585811157864858
+35,LR,Offense Type_Property,0.13378630147753093
+36,LR,Offense Type_Public Order,-0.07076495641512043
+37,LR,Offense Type_Violent,-0.2957985062050637
+38,LR,Race_American Indian or Alaska Native ,0.9277340879622954
+39,LR,Race_Asian or Pacific Islander ,-0.2340790983615618
+40,LR,Race_Black ,0.4830480913539412
+41,LR,Race_N/A ,-0.20457564003779588
+42,LR,Race_White ,0.476413586338361
+43,LR,Ethnicity_,-0.03574959002180979
+44,LR,Ethnicity_ Hispanic,0.5248084748091563
+45,LR,Ethnicity_ Non-Hispanic,0.9594821424675153
+46,SVM,Main Supervising District_1JD,6.0835109934487264e-05
+47,SVM,Main Supervising District_2JD,0.00012885463206657732
+48,SVM,Main Supervising District_3JD,-6.272339953738992e-05
+49,SVM,Main Supervising District_4JD,0.00013891701451029803
+50,SVM,Main Supervising District_5JD,2.649035423019086e-05
+51,SVM,Main Supervising District_6JD,-6.932853807484207e-06
+52,SVM,Main Supervising District_7JD,-8.363790482235345e-05
+53,SVM,Main Supervising District_8JD,3.4960645393766754e-05
+54,SVM,Main Supervising District_ISC,-1.127650330090546e-05
+55,SVM,Main Supervising District_Interstate Compact,-0.00012410195560619286
+56,SVM,Main Supervising District_NSD,-0.0001013851392599463
+57,SVM,Age At Release_25-34,-1.0897938409470953e-06
+58,SVM,Age At Release_35-44,-3.6754314805875765e-05
+59,SVM,Age At Release_45-54,-9.819995511861634e-06
+60,SVM,Age At Release_55 and Older,6.530358973577677e-06
+61,SVM,Age At Release_Under 25,4.1133747345156735e-05
+62,SVM,Sex_Female,-7.217863685582415e-05
+63,SVM,Sex_Male,7.217862730612978e-05
+64,SVM,Offense Classification_A Felony,0.0
+65,SVM,Offense Classification_Aggravated Misdemeanor,1.9725775473489193e-05
+66,SVM,Offense Classification_B Felony,5.784704626421444e-06
+67,SVM,Offense Classification_C Felony,-0.0001052778397934162
+68,SVM,Offense Classification_D Felony,-3.443566401983844e-05
+69,SVM,Offense Classification_Felony - Enhanced,1.0811421645939845e-05
+70,SVM,Offense Classification_Felony - Enhancement to Original Penalty,-7.321895827772096e-05
+71,SVM,Offense Classification_Felony - Mandatory Minimum,0.000394884647346494
+72,SVM,Offense Classification_Other Felony,0.0
+73,SVM,Offense Classification_Other Felony (Old Code),0.0
+74,SVM,Offense Classification_Other Misdemeanor,-0.0006354442281311752
+75,SVM,Offense Classification_Serious Misdemeanor,5.439790261618782e-05
+76,SVM,Offense Classification_Sexual Predator Community Supervision,0.0
+77,SVM,Offense Classification_Simple Misdemeanor,0.0
+78,SVM,Offense Classification_Special Sentence 2005,0.00036277223960468064
+79,SVM,Offense Type_Drug,1.7241287423530594e-05
+80,SVM,Offense Type_Other,0.00023027877773529326
+81,SVM,Offense Type_Property,-9.867513153949403e-05
+82,SVM,Offense Type_Public Order,-2.846582015081367e-05
+83,SVM,Offense Type_Violent,-0.0001203791139232635
+84,SVM,Race_American Indian or Alaska Native ,0.0006286478855486166
+85,SVM,Race_Asian or Pacific Islander ,0.00037933511764265404
+86,SVM,Race_Black ,0.0002831352667271858
+87,SVM,Race_N/A ,-0.0005331655125456873
+88,SVM,Race_White ,0.00036538069070957135
+89,SVM,Ethnicity_,0.0005876062647367508
+90,SVM,Ethnicity_ Hispanic,0.0002581199650535382
+91,SVM,Ethnicity_ Non-Hispanic,0.00027760721422964707
